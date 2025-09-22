@@ -2,9 +2,10 @@
 
 A smart quiz generation application that transforms your Notion notes into interactive quizzes using AI.
 
-## Refactored for CloudFare
-**Refactoring original project from local computer to use with cloudfare application**:
-**DISCLAIMER:** .env file with environment variables for all the API keys used was not pushed.
+## Refactored for CloudFlare
+
+- **Refactoring original project from local computer to use with CloudFlare application**
+- **DISCLAIMER:** .env file with environment variables for all the API keys used was not pushed.
 
 ## Features
 
